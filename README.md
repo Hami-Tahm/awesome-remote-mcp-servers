@@ -2879,6 +2879,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Haulest](https://haulest.com/developers/mcp) `https://haulest.com/mcp`
   [![Haulest MCP connector](https://glama.ai/mcp/connectors/com.haulest/haulest/badges/score.svg)](https://glama.ai/mcp/connectors/com.haulest/haulest)
   🔓 - Moving cost ranges, reviewed movers, USDOT and Companies House licence checks, guides, and quote requests.
+- [HomeCalc.ca](https://homecalc.ca/connector) `https://homecalc.ca/api/mcp`
+  [![HomeCalc.ca MCP connector](https://glama.ai/mcp/connectors/ca.homecalc/calculators/badges/score.svg)](https://glama.ai/mcp/connectors/ca.homecalc/calculators)
+  🔓 - Canadian mortgage, tax and land transfer calculators with 12 read-only tools across all 13 provinces and territories.
 - [Irish Rent Check](https://rent-check-production.up.railway.app/) `https://rent-check-production.up.railway.app/mcp`
   [![Irish rent check MCP connector](https://glama.ai/mcp/connectors/app.railway.up.rent-check-production/irish-rent-check/badges/score.svg)](https://glama.ai/mcp/connectors/app.railway.up.rent-check-production/irish-rent-check)
   🔓 - Irish rents by county (CSO/RTB), free; paid town and property-price tools return x402/MPP terms.
